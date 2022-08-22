@@ -6,47 +6,84 @@ Requirements Document
 Table of Contents
 
 Introduction
+
 1.1 Purpose and Scope
+
 1.2 Target Audience
+
 1.3 Terms and Definitions
+
 2 Product Overview
+
 2.1 Users and Stakeholders
 
-2.1.1 ICNH	5
+2.1.1 ICNH
 
-2.1.2 ChocAn	5
-2.1.3 Acme Accounting Services	5
-2.1.4 Service Providers (End User)	5
-2.1.4 Managers (End User)	6
-2.2 Use cases	6
-2.2.1 Provider checking ChocAn member’s membership validity	6
-2.2.2 Provider logs healthcare services provided to a ChocAn member	7
-2.2.3 Produce Weekly Manager Report	9
-3. Functional Requirements	10
-3.1 Member ID Validation	10
-3.2 Recording Services Provided	10
-3.2.1 Service Code Verification	11
-3.2.2 Saving Service Transaction	11
-3.2.3 Service Fee Retrieval	11
-3.3 Services Database	12
-3.4 Accounting Reports	12
-3.4.1 Member Accounting Report	12
-3.4.2 Provider Accounting Report	12
-3.4.3 Manager Accounting Report	13
-4 Nonfunctional Requirements	14
-4.1 Database Interaction	14
-4.1.1 Database Data Retrieval	14
-4.1.2 Database Data Storage	14
-4.2 Hardware	14
-4.3 Acme Accounting Services Integration	14
-4.4 ChocAn Member Card Implementation	15
-5 Milestones and Deliverables	16
-5.1 Design Document	16
-5.2 Test Plan	17
-5.3 Final Deliverables	17
-5.3.1 System Implementation	17
-5.3.2 System Verification	18
-5.4 Project Report	18
+2.1.2 ChocAn
+
+2.1.3 Acme Accounting Services
+
+2.1.4 Service Providers (End User)
+
+2.1.4 Managers (End User)
+
+2.2 Use cases
+
+2.2.1 Provider checking ChocAn member’s membership validity	
+
+2.2.2 Provider logs healthcare services provided to a ChocAn member
+
+2.2.3 Produce Weekly Manager Report
+
+3. Functional Requirements
+4. 
+5.1 Member ID Validation
+
+6.2 Recording Services Provided
+
+7.2.1 Service Code Verification
+
+8.2.2 Saving Service Transaction
+
+9.2.3 Service Fee Retrieval
+
+10.3 Services Database
+
+11.4 Accounting Reports
+
+12.4.1 Member Accounting Report
+
+13.4.2 Provider Accounting Report
+
+14.4.3 Manager Accounting Report
+
+4 Nonfunctional Requirements
+
+4.1 Database Interaction
+
+4.1.1 Database Data Retrieval
+
+4.1.2 Database Data Storage	
+
+4.2 Hardware	
+
+4.3 Acme Accounting Services Integration	
+
+4.4 ChocAn Member Card Implementation	
+
+5 Milestones and Deliverables	
+
+5.1 Design Document	
+
+5.2 Test Plan
+
+5.3 Final Deliverables	
+
+5.3.1 System Implementation	
+
+5.3.2 System Verification	
+
+5.4 Project Report	
 
 # Introduction
 Chocolate addiction is one of the leading health crises in the world today and Chocoholics Anonymous is dedicated to helping the many cope with the far reaching effects of this crisis. Many people misunderstand and misconstrue the difficulties and challenges of chocolate addiction which often leads to shame, further substance abuse and at its worst “la Mort au Choclat”, death by chocolate.  In order to face these concerns, ICNH is dedicated to contributing to problem resolution and addiction management. Chocoholics Anonymous, or ChocAn has tasked our company with developing software to help the organization work with health providers who help treat and manage chocolate addiction. The battle will not be an easy one, but having identified the problem, we have isolated the requirements and demands of developing a system for all parties to manage aspects of healthcare for chocolate addiction. Such aspects include managing records of health services provided, maintaining members history of treatment, and tracking billing services for ChocAn to reimburse.  The following will introduce such demands, specific case situations and evaluate all considerations being made in the development of our software solution. 
