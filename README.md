@@ -1,6 +1,4 @@
-# mycode
-
-The ChocAn Simulator
+# The ChocAn Simulator
 Requirements Document
 
 # Introduction
