@@ -4,13 +4,16 @@ The ChocAn Simulator
 Requirements Document
 
 Table of Contents
-Introduction	3
-1.1 Purpose and Scope	3
-1.2 Target Audience	3
-1.3 Terms and Definitions	4
-2 Product Overview	4
-2.1 Users and Stakeholders	5
+
+Introduction
+1.1 Purpose and Scope
+1.2 Target Audience
+1.3 Terms and Definitions
+2 Product Overview
+2.1 Users and Stakeholders
+
 2.1.1 ICNH	5
+
 2.1.2 ChocAn	5
 2.1.3 Acme Accounting Services	5
 2.1.4 Service Providers (End User)	5
